@@ -3,7 +3,7 @@
 This package provides Go bindings for the BelledonneCommunications C library bcg729.
 
 The C libraries and docs are provided in https://github.com/BelledonneCommunications/bcg729.
-This package just handles the wrapping in Go, and is unaffiliated with xiph.org.
+This package just handles the wrapping in Go, and is unaffiliated with BelledonneCommunications.
 
 ### Prerequisites
 
