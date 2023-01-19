@@ -5,7 +5,7 @@ import (
 	"io"
 	"os"
 
-	"gitub.com/channel-io/go-g729/pkg"
+	"github.com/channel-io/go-g729/pkg"
 )
 
 func main() {
